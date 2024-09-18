@@ -21,3 +21,8 @@ npm install
 ```bash
 npm run dev
 ```
+
+## LOGIN
+
+email: admin@gmail.com
+pass: 123123

@@ -1,8 +1,17 @@
-# Nuxt 3 Minimal Starter
+# First step
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Use 
+```bash
+git clone https://github.com/DanyloBorodyshyn/trello-clone-app.git
+```
 
-## Setup
+# Second step
+
+```bash
+cd trello-clone-app
+```
+
+## Setup (Third step)
 
 Make sure to install the dependencies:
 
@@ -20,7 +29,7 @@ yarn install
 bun install
 ```
 
-## Development Server
+## Run app (Fourth step)
 
 Start the development server on `http://localhost:3000`:
 
@@ -37,39 +46,3 @@ yarn dev
 # bun
 bun run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.

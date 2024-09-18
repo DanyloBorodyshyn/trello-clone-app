@@ -1,0 +1,14 @@
+.sidenav-acitve-link {
+    & > div {
+      @apply bg-white;
+    }
+  
+    .sidenav-link {
+      &-icon {
+        @apply filter grayscale brightness-0;
+      }
+      &-text {
+        @apply text-black font-medium;
+      }
+    }
+  }
